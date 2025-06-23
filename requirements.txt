@@ -1,0 +1,9 @@
+### `requirements.txt`
+
+- Python 3.9+
+- Pandas
+- Numpy
+- Matplotlib
+- Plotly
+- Statsmodels (ARIMA)
+- Jupyter Notebook
